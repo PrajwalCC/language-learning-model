@@ -39,13 +39,13 @@ To run this project on your local machine, follow these steps:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/Emitrr-Assignment
+https://github.com/PrajwalCC/language-learning-model.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd Emitrr-Assignment
+cd language-learning-model
 ```
 
 Install required dependencies for both client and server
